@@ -1,0 +1,30 @@
+.task-summary-page {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .summary-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .summary-item {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .summary-item h3 {
+    margin-bottom: 5px;
+  }
+  
+  .visualization-container {
+    margin-top: 20px;
+  }
+  
+  /* Add more styling for visualization components as needed */
+  

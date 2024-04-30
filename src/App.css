@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App{
+  background-color: rgb(188, 192, 197);
+  min-height: 100vh;
+}
+
+h1{
+  font-family: "Bree Serif";
+  padding: 20px;
+  text-decoration: underline;
+}

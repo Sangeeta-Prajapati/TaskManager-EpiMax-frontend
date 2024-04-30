@@ -1,0 +1,30 @@
+.task {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #ccc;
+    list-style-type: none;
+  }
+  
+  .task button {
+    padding: 4px 8px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 8px;
+  }
+  
+  .status {
+    color: #28a745;
+  }
+  
+  .assign-task {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid rgb(160, 157, 157);
+  }
